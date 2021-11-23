@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
 
 // Resources
 import "../../styles/TrafficLights.scss";
